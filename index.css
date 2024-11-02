@@ -1,0 +1,28 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: turquoise;
+    text-align: center;
+
+}
+
+header {
+    background-color: #2C3E50;
+    color: white;
+    padding: 1em;
+  }
+  
+  main {
+    background-color: #ECF0F1;
+    padding: 2em;
+    flex: auto;
+  }
+  
+  footer {
+    background-color: #34495E;
+    color: white;
+    padding: 1em;
+  }
+  
